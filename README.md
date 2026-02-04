@@ -370,7 +370,7 @@ cd Whisper
 ## 💖 致谢
 
 - [Typecho](https://typecho.org/) - 优雅的博客系统
-- [Jasmine](https://github.com/...) - 清新的 Typecho 主题
+- [Jasmine](https://github.com/liaocp666/Jasmine) - 清新的 Typecho 主题
 - 所有贡献者和使用者
 
 ---
@@ -396,3 +396,8 @@ cd Whisper
 Made with ❤️ by [Lovisnd](https://github.com/lovisnd)
 
 </div>
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lovisnd/Whisper&type=date&legend=top-left)](https://www.star-history.com/#lovisnd/Whisper&type=date&legend=top-left)
